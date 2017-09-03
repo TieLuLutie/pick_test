@@ -1,0 +1,13 @@
+{
+  "name": "Cherry Pick",
+  "description": "",
+  "version": "2.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_title": "Cherry Pick",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
